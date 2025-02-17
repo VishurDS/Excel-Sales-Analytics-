@@ -26,8 +26,8 @@
   
 - **Purpose of Finance analytics:** Performance measurement, Better decision-making, financial planning and facilitate communication with stakeholders.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
+- **Importance of analyzing Finance data:** Support in comparing performance with industry competitors and past time frames. Basis for financial planning and predictions.
+  
 - **Role of reports:** Transforming raw financial data into meaningful insights that drive business growth, efficiency, and profitability.
 
 
