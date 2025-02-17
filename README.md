@@ -36,9 +36,10 @@
 - [x]	Skills to generate a date table using Power Query.
 - [x]	Ability to derive fiscal months and quarters.
 - [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Ability to integrate additional information into a pre-existing data model.
 - [x]	Utilizing DAX to create calculated columns.
-
+- [x]	Adding Custom columns to exiting data model.
+      
 ## Soft Skills:
 - [x]	Refined understanding of Sales & Finance Reports
 - [x]	Creating reports focused on user needs with empathy as a priority.
